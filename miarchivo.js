@@ -1,4 +1,4 @@
-
+let bienvenida = alert("Bienvenid@ a la tiendita de Piba Coctel (ACEPTAR para continuar)")
 let articulo = prompt("Ingrese el tipo de bebida que quiere comprar (comprar para finalizar)");
 let carrito = 0;
 let precioGin = 600;
